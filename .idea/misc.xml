@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/STUDY/Seven/MAD/LAB/Lab11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/STUDY/Seven/MAD/LAB/Lab11/app/src/main/res/drawable/trans.xml" value="0.290625" />
+        <entry key="..\:/STUDY/Seven/MAD/LAB/Lab11/app/src/main/res/drawable/trans_square.xml" value="0.14270833333333333" />
+        <entry key="..\:/STUDY/Seven/MAD/LAB/Lab11/app/src/main/res/drawable/trans_triangle.xml" value="0.14270833333333333" />
+        <entry key="..\:/STUDY/Seven/MAD/LAB/Lab11/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
